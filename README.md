@@ -7,9 +7,9 @@
   </picture>
 </p>
 
-<!-- 🔥 OFFICIAL BRAND LOGO COMPOSITE -->
+<!-- 🔥 OFFICIAL BRAND LOGO COMPOSITE (TRANSPARENT BACKGROUND, COLORED TEXT) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-O-4285F4?style=flat-square" alt="O"><img src="https://img.shields.io/badge/-m-4285F4?style=flat-square" alt="m"><img src="https://img.shields.io/badge/-m-4285F4?style=flat-square" alt="m"><img src="https://img.shields.io/badge/-N-34A853?style=flat-square" alt="N"><img src="https://img.shields.io/badge/-o-34A853?style=flat-square" alt="o"><img src="https://img.shields.io/badge/-M-EA4335?style=flat-square" alt="M"><img src="https://img.shields.io/badge/-i-FBBC05?style=flat-square" alt="i"><img src="https://img.shields.io/badge/-Automation%20LLP-5F6368?style=flat-square" alt="Automation LLP">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=36&duration=1&pause=60000&color=4285F4&center=true&vCenter=true&width=75&lines=Omm" alt="Omm"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=36&duration=1&pause=60000&color=34A853&center=true&vCenter=true&width=50&lines=No" alt="No"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=36&duration=1&pause=60000&color=EA4335&center=true&vCenter=true&width=32&lines=M" alt="M"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=36&duration=1&pause=60000&color=FBBC05&center=true&vCenter=true&width=16&lines=i" alt="i"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=28&duration=1&pause=60000&color=5F6368&center=true&vCenter=true&width=210&lines=Automation+LLP" alt="Automation LLP">
 </p>
 
 <!-- 🔥 TITLE -->
@@ -68,7 +68,7 @@ With a background in Physics and a deep passion for structural logic, I transfor
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nomeshwer&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nomeshwer&theme=default&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.readme-streak-stats.herokuapp.com/?user=nomeshwer&theme=default&hide_border=true">
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nomeshwer&theme=tokyonight&hide_border=true">
   </picture>
 </p>
